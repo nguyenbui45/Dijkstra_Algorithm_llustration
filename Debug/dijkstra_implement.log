@@ -1,0 +1,21 @@
+﻿  dijkstra_implement.cpp
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(68,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(181,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(195,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(215,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(435,35): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\VC\Tools\MSVC\14.28.29910\include\utility(249,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(207): message : see reference to function template instantiation 'std::pair<sf::Vector2f,float>::pair<sf::Vector2f,int,0>(std::pair<sf::Vector2f,int> &&) noexcept' being compiled
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(207): message : see reference to function template instantiation 'std::pair<sf::Vector2f,float>::pair<sf::Vector2f,int,0>(std::pair<sf::Vector2f,int> &&) noexcept' being compiled
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(112): warning C4715: 'check_mouse': not all control paths return a value
+C:\Users\COMPUTER\source\repos\dijkstra_implement\dijkstra_implement.cpp(75): warning C4715: 'Table::insert': not all control paths return a value
+  dijkstra_implement.vcxproj -> C:\Users\COMPUTER\source\repos\dijkstra_implement\Debug\dijkstra_implement.exe
