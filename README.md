@@ -1,1 +1,3 @@
-# Dijkstra_Algorithm_llustration
+# Dijkstra Algorithm llustration
+Written in C++ and SFML library
+
